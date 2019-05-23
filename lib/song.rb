@@ -50,4 +50,4 @@ end
     @@artists_count
   end
 end
-end
+
